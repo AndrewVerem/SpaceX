@@ -1,7 +1,7 @@
 const instance = new vidbg(".video", {
-  mp4: "https://andrewverem.github.io/SpaceX/video/world.mp4",
-  webm: "https://andrewverem.github.io/SpaceX/video/world.webm",
-  poster: "https://andrewverem.github.io/SpaceX/video/poster.jpg",
+  mp4: "../video/world.mp4",
+  webm: "../video/world.webm",
+  poster: "../video/poster.jpg",
   overlay: false,
 });
 
